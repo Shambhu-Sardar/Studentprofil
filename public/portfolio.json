@@ -6,7 +6,7 @@
   "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
   "interests": ["Web development", "Open source", "Problem solving", "UI design"],
   "profileImage": "/profile.png",
-  "email": "aarav@example.com",
+  "email": "shambhuSardar158@gmail.com",
   "socials": {
     "github": "https://github.com/Shambhu-Sardar?tab=repositories",
     "linkedin": "https://www.linkedin.com/feed/"
@@ -25,7 +25,7 @@
       "technologies": ["React", "CSS", "Node.js"],
       "github": "https://github.com/",
       "demo": "https://example.com/",
-      "image" : "/image/sms.png"
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcHiCtSXpFbm7GIb4qx98bwtNw6nAVCWhd1bpuvZImQg&s=10"
 
     },
     {
@@ -35,7 +35,7 @@
       "technologies": ["React", "CSS", "JavaScript"],
       "github": "https://github.com/",
       "demo": "https://example.com/",
-      "image" : "/image/weather application.png"
+      "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFq4YXVGYDh6J8UbC-H-JLqv1588DWDYnMGbbkg8uduQ&s=10"
     },
     {
       "id": 3,
@@ -44,7 +44,7 @@
       "technologies": ["React", "CSS", "JavaScript"],
       "github": "https://github.com/",
       "demo": "https://example.com/",
-      "image": "/image/task management.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqykCDFVGArlvOD98w9XMjLSejEpFh-AkiFDFKFdpQUw&s=10"
     }
   ],
   "education": [
