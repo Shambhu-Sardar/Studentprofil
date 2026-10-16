@@ -1,0 +1,58 @@
+{
+  "name": "Shambhu Sardar",
+  "role": "Aspiring Full Stack Developer",
+  "tagline": "Building modern web experiences with React.",
+  "about": "I am a computer science student passionate about web development and solving real-world problems.",
+  "goals": "I want to join a product team as a full stack developer and keep learning from experienced engineers.",
+  "interests": ["Web development", "Open source", "Problem solving", "UI design"],
+  "profileImage": "/profile.png",
+  "email": "aarav@example.com",
+  "socials": {
+    "github": "https://github.com/Shambhu-Sardar?tab=repositories",
+    "linkedin": "https://www.linkedin.com/feed/"
+  },
+  "skills": [
+    { "category": "Frontend", "items": ["HTML", "CSS", "JavaScript", "React.js"] },
+    { "category": "Backend", "items": ["Node.js", "Express.js"] },
+    { "category": "Database", "items": ["MongoDB"] },
+    { "category": "Tools", "items": ["Git", "GitHub"] }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Student Management System",
+      "description": "A simple application to manage student records.",
+      "technologies": ["React", "CSS", "Node.js"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/",
+      "image" : "/image/sms.png"
+
+    },
+    {
+      "id": 2,
+      "title": "Weather Application",
+      "description": "A responsive application displaying weather information.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/",
+      "image" : "/image/weather application.png"
+    },
+    {
+      "id": 3,
+      "title": "Task Management Application",
+      "description": "An application for organizing everyday tasks.",
+      "technologies": ["React", "CSS", "JavaScript"],
+      "github": "https://github.com/",
+      "demo": "https://example.com/",
+      "image": "/image/task management.png"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications",
+      "college": "GL Bajaj Institute of Management",
+      "year": "2026",
+      "description": "Studying programming and web development."
+    }
+  ]
+}
