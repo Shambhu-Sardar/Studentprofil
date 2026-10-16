@@ -17,7 +17,7 @@ function App() {
  let[error, setError] = useState(false);
 
  useEffect(() =>{
-  fetch('/portfolio.json')
+  fetch('./portfolio.json')
   .then((response)=>{
     if(!response.ok){
       throw new error("Request failed");

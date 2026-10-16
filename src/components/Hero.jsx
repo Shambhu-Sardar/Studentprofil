@@ -22,7 +22,8 @@ function Hero({data}) {
         </div>
 
         <div className="hero-photo">
-          <img src={data.profileImage} alt={data.name} />
+          {/* <img src={data.profileImage} alt={data.name} /> */}
+           <img src={import.meta.env.BASE_URL + data.profileImage} alt={data.name} />
         </div>
       </div>
     </section>
